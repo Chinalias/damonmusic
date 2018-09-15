@@ -1,6 +1,6 @@
-token=YOUR BOT TOKEN HERE
-owner=YOUR OWNER ID HERE
-prefix=YOUR PREFIX HERE!!!
-game=Alpha Bots!
+token=NDg3OTU3ODQyMzUxODgyMjQw.DnVNtA.nxtnpaEMU5U-QiBIhOx7uUrRePs
+owner=442348317737877504
+prefix=D
+game=Damon is my brother.
 stayinchannel=true
 songinstatus=true
